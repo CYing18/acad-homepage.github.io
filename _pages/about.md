@@ -83,7 +83,6 @@ Jiajing Xie*, **Ying Chen***, Shijie Luo*, Wenxian Yang, Yuxiang Lin, Liansheng 
 **Ying Chen***, Huijun Yue*, Ruifeng Zou, Wenbin Lei, Wenjun Ma, Xiaomao Fan
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0893608023001454) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Code**](https://github.com/xmuyulab/BPformer) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
