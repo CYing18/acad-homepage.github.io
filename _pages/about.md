@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currrently a Master student of the Department of Computer Science at Xiamen University and conducting research in [Prof. Rongshan Yu](https://scholar.google.com/citations?user=Uh1EpKQAAAAJ&hl=zh-CN&oi=ao)’s Biomedical AI Lab. I am also interning at the Shanghai Artificial Intelligence Laboratory, advised by [Dr. Junjun He](https://scholar.google.com/citations?user=Z4LgebkAAAAJ&hl=zh-CN).
+I am currently a Master’s student in the Department of Computer Science at Xiamen University, where I conduct research under the guidance of [Prof. Rongshan Yu](https://scholar.google.com/citations?user=Uh1EpKQAAAAJ&hl=zh-CN&oi=ao) in the Biomedical AI Lab. Alongside my academic work, I am interning at the Shanghai Artificial Intelligence Laboratory, mentored by [Dr. Junjun He](https://scholar.google.com/citations?user=Z4LgebkAAAAJ&hl=zh-CN).
 
-My research interest includes Computational Pathology, Multimodal Large Language Model, AI for Medicine. 
-
-
+My research interests lie at the intersection of Computational Pathology, Multimodal Large Language Models, and AI for Medicine. I am deeply passionate about advancing the frontiers of biomedical AI and aspire to pursue a Ph.D. to continue contributing to cutting-edge research in these fields.
 
 # 🔥 News
 - *2024.10*: &nbsp; Thrilled to announce our latest work **SlideChat**, the first vision-language assistant capable of understanding gigapixel whole-slide images. 
