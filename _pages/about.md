@@ -44,13 +44,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-- *2023.09 - 2026.06 (now)*, Xiamen University, advised by [Rongshan Yu](https://scholar.google.com/citations?user=Uh1EpKQAAAAJ&hl=zh-CN&oi=ao). 
-- *2019.09 - 2023.06*, South China Normal University, advised by [Xiaomao Fan](https://scholar.google.com/citations?user=zDwIj2wAAAAJ&hl=zh-CN&oi=ao).
+- *2023.09 - 2026.06 (now)*, Master in Computer Science and Technology, Xiamen University, advised by [Rongshan Yu](https://scholar.google.com/citations?user=Uh1EpKQAAAAJ&hl=zh-CN&oi=ao). 
+- *2019.09 - 2023.06*, Bachelor in Artificial Intelligence, South China Normal University, advised by [Xiaomao Fan](https://scholar.google.com/citations?user=zDwIj2wAAAAJ&hl=zh-CN&oi=ao).
 
 
 # 💻 Internships
 - *2024.05 - present*, Shanghai Artificial Intelligence Laboratory, advised by [Junjun He](https://scholar.google.com/citations?user=Z4LgebkAAAAJ&hl=zh-CN).
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Scholarship of South China Normal University, 2020/2021/2022/2023.
+- Second Prize of CUMCM, 2021. 
