@@ -17,15 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currrently a Master student of the Department of Computer Science at Xiamen University and conducting research in [Prof. Rongshan Yu](https://scholar.google.com/citations?user=Uh1EpKQAAAAJ&hl=zh-CN&oi=ao)’s Biomedical AI Lab. I am interning at the Shanghai Artificial Intelligence Laboratory, advised by [Dr.Junjun He](https://scholar.google.com/citations?user=Z4LgebkAAAAJ&hl=zh-CN).
+I am currrently a Master student of the Department of Computer Science at Xiamen University and conducting research in [Prof. Rongshan Yu](https://scholar.google.com/citations?user=Uh1EpKQAAAAJ&hl=zh-CN&oi=ao)’s Biomedical AI Lab. I am also interning at the Shanghai Artificial Intelligence Laboratory, advised by [Dr. Junjun He](https://scholar.google.com/citations?user=Z4LgebkAAAAJ&hl=zh-CN).
 
 My research interest includes Computational Pathology, Multimodal Large Language Model, AI for Medicine. 
 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: &nbsp; Thrilled to announce our latest work **SlideChat**, the first vision-language assistant capable of understanding gigapixel whole-slide images. 
+- *2024.06*: &nbsp; One paper was accepted by **Cell Reports Methods**.
+- *2024.02*: &nbsp; One paper was accepted by **CVPR2024**.
+- *2023.05*: &nbsp; One paper was accepted by **Neural Networks**.
 
 # 📝 Publications 
 
@@ -50,7 +52,7 @@ My research interest includes Computational Pathology, Multimodal Large Language
 
 
 # 💻 Internships
-- *2024.05 - present*, Shanghai Artificial Intelligence Laboratory, advised by [Dr.Junjun He](https://scholar.google.com/citations?user=Z4LgebkAAAAJ&hl=zh-CN).
+- *2024.05 - present*, Shanghai Artificial Intelligence Laboratory, advised by [Dr. Junjun He](https://scholar.google.com/citations?user=Z4LgebkAAAAJ&hl=zh-CN).
 
 # 🎖 Honors and Awards
 - Scholarship of South China Normal University, 2020/2021/2022/2023.
