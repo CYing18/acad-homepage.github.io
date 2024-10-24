@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currrently a Master student of the Department of Computer Science at Xiamen University and conducting research in [Prof. Rongshan Yu](https://scholar.google.com/citations?user=Uh1EpKQAAAAJ&hl=zh-CN&oi=ao)’s Biomedical AI Lab. I am interning at the Shanghai Artificial Intelligence Laboratory, advised by [Dr.Junjun He](https://scholar.google.com/citations?user=Z4LgebkAAAAJ&hl=zh-CN).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Computational Pathology, Multimodal Large Language Model, AI for Medicine. 
+
 
 
 # 🔥 News
@@ -44,12 +45,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-- *2023.09 - 2026.06 (now)*, Master in Computer Science and Technology, Xiamen University, advised by [Rongshan Yu](https://scholar.google.com/citations?user=Uh1EpKQAAAAJ&hl=zh-CN&oi=ao). 
-- *2019.09 - 2023.06*, Bachelor in Artificial Intelligence, South China Normal University, advised by [Xiaomao Fan](https://scholar.google.com/citations?user=zDwIj2wAAAAJ&hl=zh-CN&oi=ao).
+- *2023.09 - 2026.06 (now)*, Master in Computer Science and Technology, Xiamen University, advised by [Prof. Rongshan Yu](https://scholar.google.com/citations?user=Uh1EpKQAAAAJ&hl=zh-CN&oi=ao). 
+- *2019.09 - 2023.06*, Bachelor in Artificial Intelligence, South China Normal University, advised by [Prof. Xiaomao Fan](https://scholar.google.com/citations?user=zDwIj2wAAAAJ&hl=zh-CN&oi=ao).
 
 
 # 💻 Internships
-- *2024.05 - present*, Shanghai Artificial Intelligence Laboratory, advised by [Junjun He](https://scholar.google.com/citations?user=Z4LgebkAAAAJ&hl=zh-CN).
+- *2024.05 - present*, Shanghai Artificial Intelligence Laboratory, advised by [Dr.Junjun He](https://scholar.google.com/citations?user=Z4LgebkAAAAJ&hl=zh-CN).
 
 # 🎖 Honors and Awards
 - Scholarship of South China Normal University, 2020/2021/2022/2023.
