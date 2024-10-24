@@ -78,7 +78,7 @@ Jiajing Xie*, **Ying Chen***, Shijie Luo*, Wenxian Yang, Yuxiang Lin, Liansheng 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Reports Methods</div><img src='images/RAFNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/RAFNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [RAFNet: Restricted attention fusion network for sleep apnea detection](https://www.sciencedirect.com/science/article/abs/pii/S0893608023001454)
