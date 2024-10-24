@@ -65,7 +65,7 @@ Hao Li, **Ying Chen**, Yifei Chen, Rongshan Yu, Wenxian Yang, Liansheng Wang, Bo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Reports Methods</div><img src='images/Five.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Reports Methods</div><img src='images/BPformer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Tracing unknown tumor origins with a biological-pathway-based transformer model](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00153-X)
@@ -78,6 +78,9 @@ Jiajing Xie*, **Ying Chen***, Shijie Luo*, Wenxian Yang, Yuxiang Lin, Liansheng 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Reports Methods</div><img src='images/RAFNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [RAFNet: Restricted attention fusion network for sleep apnea detection](https://www.sciencedirect.com/science/article/abs/pii/S0893608023001454)
 
 **Ying Chen***, Huijun Yue*, Ruifeng Zou, Wenbin Lei, Wenjun Ma, Xiaomao Fan
